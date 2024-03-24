@@ -9,3 +9,5 @@ export const HTTP_METHODS = {
   TRACE: "TRACE",
   PATCH: "PATCH",
 } as const
+
+// TODO could add all possible WS events ['game-created', 'error'] etc.
